@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">고급의</string>
+    <string name="lan_japanese">일본어</string>
+    <string name="lan_korean">한국인</string>
+    <string name="lan_uzbek">우즈벡</string>
+    <string name="lan_chinese">중국인</string>
+</resources>

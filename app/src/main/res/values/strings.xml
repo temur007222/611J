@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Advanced</string>
+    <string name="lan_japanese">Japanese</string>
+    <string name="lan_korean">Korean</string>
+    <string name="lan_uzbek">Uzbek</string>
+    <string name="lan_chinese">Chinese</string>
+</resources>
